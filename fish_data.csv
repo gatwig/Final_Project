@@ -1,0 +1,41 @@
+Date,Lake,Fish_Species,Length_in,Weight_lb,Bait,Topwater,Spinning,Foul_Hook
+2025-05-15,Lake Mendota,Northern Pike,28.4,8.9,Whopper Plopper,Yes,No,No
+2025-05-15,Spring Lake,Largemouth Bass,19.2,4.1,Mepps,No,Yes,No
+2025-05-16,Spring Lake,Smallmouth Bass,17.5,3.2,Mepps,No,Yes,No
+2025-05-17,Lake Mendota,Northern Pike,31.1,10.5,Whopper Plopper,Yes,No,No
+2025-05-17,Spring Lake,Largemouth Bass,22.3,4.7,Whopper Plopper,Yes,No,No
+2025-05-18,Spring Lake,Largemouth Bass,20.6,5.3,Whopper Plopper,Yes,No,No
+2025-05-20,Lake Mendota,Northern Pike,26.9,7.4,Whopper Plopper,Yes,No,No
+2025-05-20,Spring Lake,Largemouth Bass,18.8,3.9,Mepps,No,Yes,Yes
+2025-05-22,Spring Lake,Northern Pike,29.7,9.6,Whopper Plopper,Yes,No,No
+2025-05-24,Lake Mendota,Northern Pike,24.5,5.8,Mepps,No,Yes,No
+2025-05-24,Spring Lake,Largemouth Bass,21.3,5.6,Whopper Plopper,Yes,No,No
+2025-05-27,Spring Lake,Northern Pike,27.8,8.2,Whopper Plopper,Yes,No,No
+2025-05-30,Lake Mendota,Northern Pike,19.1,4.0,Whopper Plopper,Yes,No,No
+2025-05-30,Spring Lake,Northern Pike,30.4,10.1,Mepps,No,Yes,No
+2025-06-02,Spring Lake,Largemouth Bass,18.7,3.8,Whopper Plopper,Yes,No,No
+2025-06-04,Lake Mendota,Northern Pike,23.9,5.2,Whopper Plopper,Yes,No,No
+2025-06-04,Spring Lake,Northern Pike,32.6,11.8,Whopper Plopper,Yes,No,No
+2025-06-07,Spring Lake,Largemouth Bass,17.9,3.5,Mepps,No,Yes,No
+2025-06-09,Lake Mendota,Northern Pike,28.1,8.7,Whopper Plopper,Yes,No,No
+2025-06-09,Spring Lake,Largemouth Bass,41.3,18.6,Whopper Plopper,Yes,No,Yes
+2025-06-12,Spring Lake,Northern Pike,25.1,6.0,Mepps,No,Yes,No
+2025-06-12,Lake Mendota,Largemouth Bass,20.8,5.1,Whopper Plopper,Yes,No,No
+2025-06-15,Spring Lake,Northern Pike,33.2,12.4,Whopper Plopper,Yes,No,No
+2025-06-18,Spring Lake,Largemouth Bass,18.4,3.7,Mepps,No,Yes,No
+2025-06-18,Lake Mendota,Northern Pike,24.8,5.9,Whopper Plopper,Yes,No,No
+2025-06-21,Spring Lake,Largemouth Bass,43.7,20.3,Whopper Plopper,Yes,No,No
+2025-06-24,Spring Lake,Northern Pike,27.1,7.9,Whopper Plopper,Yes,No,No
+2025-06-24,Lake Mendota,Largemouth Bass,22.0,5.8,Mepps,No,Yes,No
+2025-06-27,Spring Lake,Largemouth Bass,19.6,4.2,Mepps,No,Yes,No
+2025-06-30,Spring Lake,Northern Pike,23.4,5.0,Whopper Plopper,Yes,No,No
+2025-07-03,Lake Mendota,Northern Pike,29.5,9.4,Whopper Plopper,Yes,No,No
+2025-07-03,Spring Lake,Largemouth Bass,21.7,5.9,Whopper Plopper,Yes,No,No
+2025-07-06,Spring Lake,Northern Pike,39.8,17.2,Whopper Plopper,Yes,No,No
+2025-07-09,Lake Mendota,Largemouth Bass,18.9,3.8,Mepps,No,Yes,No
+2025-07-09,Spring Lake,Northern Pike,26.2,6.5,Whopper Plopper,Yes,No,No
+2025-07-12,Spring Lake,Northern Pike,31.4,10.7,Mepps,No,Yes,No
+2025-07-15,Lake Mendota,Largemouth Bass,19.8,4.6,Whopper Plopper,Yes,No,No
+2025-07-15,Spring Lake,Northern Pike,44.1,21.0,Whopper Plopper,Yes,No,Yes
+2025-07-18,Spring Lake,Largemouth Bass,17.6,3.3,Mepps,No,Yes,No
+2025-07-21,Lake Mendota,Northern Pike,25.6,6.2,Whopper Plopper,Yes,No,No
